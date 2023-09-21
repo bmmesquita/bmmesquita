@@ -11,21 +11,21 @@
 
 
 
-  <a href="https://github.com/bmmesquita">
+<a href="https://github.com/bmmesquita">
   <br>
   <img src="https://github-readme-stats.vercel.app/api?username=bmmesquita&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bmmesquita&layout=compact&langs_count=7&theme=radical"/>
-  </a>
+</a>
 
- #### Connect with me 👇
+#### Connect with me 👇
 
- <div>
+<div>
   <a href="https://www.linkedin.com/in/bernardo-mesquita/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href = "https://medium.com/@bmmesquita"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" target="_blank"></a>
   <a href = "https://dev.to/bmmesquita"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" target="_blank"></a>
   <a href = "mailto:bernardomesquitaca@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
- </div>
+</div>
  
 #### Skills ⚡
 <div style="display: inline_block">
