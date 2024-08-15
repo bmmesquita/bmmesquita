@@ -7,7 +7,7 @@
 - 📑 Ask me about Android world.
 - 📚 Current learning Spring Boot and Flutter.
 - 🤓 I am looking to collaborate on Android project.
-- :dvd: Love house music and big fan of geek universe.
+- :control_knobs: Love house music and big fan of geek universe.
 
 
 
