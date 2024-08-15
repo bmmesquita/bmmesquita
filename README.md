@@ -30,10 +30,18 @@
 #### Skills ⚡
 <div style="display: inline_block">
    <a href="https://github.com/bmmesquita">
-  <img align="center" alt="Mark-android"  src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white">
-  <img align="center" alt="Mark-kotlin" src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white">
-  <img align="center" alt="Mark-java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
+      <img align="center" alt="Mark-android"  src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white">
+      <img align="center" alt="Mark-kotlin" src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white">
+      <img align="center" alt="Mark-java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
   </a>
+</div>
+<br>
+<div style="display: inline_block">
+   <a href="https://github.com/bmmesquita">
+      <img align="center" alt="Mark-spring"  src="https://img.shields.io/badge/Spring%20Boot-69AD3C?style=for-the-badge&logo=spring&logoColor=white">
+      <img align="center" alt="Mark-flutter" src="https://img.shields.io/badge/Flutter-065798?style=for-the-badge&logo=flutter&logoColor=white">
+      <img align="center" alt="Mark-react" src="https://img.shields.io/badge/React-087A9F?style=for-the-badge&logo=react&logoColor=white">
+    </a>
 </div>
   <br>
 <div style="display: inline_block">
