@@ -13,9 +13,9 @@
 
 <a href="https://github.com/bmmesquita">
   <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=bmmesquita&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=bmmesquita&show_icons=true&include_all_commits=true&count_private=true&theme=cobalt"/>
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bmmesquita&layout=compact&langs_count=7&theme=dracula"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bmmesquita&layout=compact&langs_count=7&theme=cobalt"/>
 </a>
 
 #### Connect with me 👇
