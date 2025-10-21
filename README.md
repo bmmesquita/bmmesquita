@@ -5,7 +5,7 @@
 #### About me:
 - 📱 I am an Android Engineer.
 - 📑 Ask me about Android world.
-- 📚 Current learning Spring Boot and Flutter.
+- 📚 Current learning Compose Multiplatform.
 - 🤓 I am looking to collaborate on Android project.
 - :control_knobs: Love house music and big fan of geek universe.
 
